@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/token-usage-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/token-usage-light.svg">
-  <img alt="Claude and Codex token usage" src="./assets/token-usage-light.svg" width="760">
+  <source media="(prefers-color-scheme: dark)" srcset="https://sedat-token-profile.sedatustunova.workers.dev/badge.svg?theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://sedat-token-profile.sedatustunova.workers.dev/badge.svg?theme=light">
+  <img alt="Claude and Codex token usage" src="https://sedat-token-profile.sedatustunova.workers.dev/badge.svg?theme=light" width="760">
 </picture>
